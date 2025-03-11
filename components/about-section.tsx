@@ -19,7 +19,7 @@ export function AboutSection() {
             <div className="absolute inset-0 bg-grid-white/5 [mask-image:linear-gradient(to_bottom,transparent,black)]"></div>
             <div className="relative h-full w-full overflow-hidden rounded-lg bg-background">
               <Image 
-                src="/placeholder.svg?height=400&width=600" 
+                src="/image.png?height=400&width=600" 
                 alt="B.Tech Students Team" 
                 width={600} 
                 height={400}
