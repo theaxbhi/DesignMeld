@@ -173,7 +173,7 @@ export function ContactForm({ open, onOpenChange }: ContactFormProps) {
                 <Mail className="h-5 w-5 text-primary mt-0.5" />
                 <div>
                   <h4 className="text-sm font-medium">Email</h4>
-                  <p className="text-sm text-muted-foreground">contact@designmeld.com</p>
+                  <p className="text-sm text-muted-foreground">contact.designmeld@gmail.com</p>
                 </div>
               </div>
 
@@ -181,7 +181,7 @@ export function ContactForm({ open, onOpenChange }: ContactFormProps) {
                 <Phone className="h-5 w-5 text-primary mt-0.5" />
                 <div>
                   <h4 className="text-sm font-medium">Phone</h4>
-                  <p className="text-sm text-muted-foreground">+91 9876543210</p>
+                  <p className="text-sm text-muted-foreground">+91 6361067517</p>
                 </div>
               </div>
 
@@ -189,7 +189,7 @@ export function ContactForm({ open, onOpenChange }: ContactFormProps) {
                 <MapPin className="h-5 w-5 text-primary mt-0.5" />
                 <div>
                   <h4 className="text-sm font-medium">Location</h4>
-                  <p className="text-sm text-muted-foreground">Engineering College Campus, Tech City, India</p>
+                  <p className="text-sm text-muted-foreground">We are Located at, Benagluru, India</p>
                 </div>
               </div>
             </div>
