@@ -1,29 +1,32 @@
-# 🌟 DesignMeld | Blending Creativity with Code
+# DesignMeld
 
-Welcome to **DesignMeld** — a modern web development agency crafting digital experiences that captivate, engage, and convert.
+![DesignMeld](https://yourimageurl.com/preview.png)  
+*A Web Development Agency*
 
----
+## Overview
+**DesignMeld** is a web development agency specializing in building modern, high-performance websites. Our team focuses on delivering **visually stunning**, **user-friendly**, and **functional** websites tailored to various industries. We aim to help businesses establish a strong online presence with sleek designs and cutting-edge technology.
 
-## 🚀 About Us
+## Live Website
+[https://yourdeployedurl.com](https://designxmeld.vercel.app/)
 
-DesignMeld is a creative web development agency focused on building sleek, user-centric websites. Our goal is to merge innovative design with seamless functionality to elevate your online presence.
+## Features
+- **Custom Website Development** tailored to client needs.
+- **High-Performance & SEO-Optimized** for better visibility.
+- **Fully Responsive Designs** that adapt to all screen sizes.
+- **Modern UI/UX** with smooth animations and intuitive navigation.
+- **E-commerce Solutions** for online businesses.
+- **CMS Integration** for easy content management.
+- **Fast & Secure Hosting** ensuring optimal website performance.
 
----
+## Tech Stack
+- **Frontend**: Next.js, Tailwind CSS  
+- **Backend**: Planned for future implementation  
+- **Hosting**: Vercel  
 
-## 🔥 Features
+## Installation & Development
+To set up the project locally, follow these steps:
 
-- 🌐 **Modern UI/UX**: Clean, responsive designs with a touch of creativity.
-- ⚡ **Fast & Secure**: Optimized for speed and built with security in mind.
-- 🎨 **Customizable**: Tailored solutions for your business needs.
-- 📈 **SEO-Ready**: Structured to boost your online visibility.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: Next.js, HTML, CSS, JavaScript, Tailwind CSS
-- **Fonts**: Poppins (Google Fonts)
-- **Design**: Inspired by V0.dev
-- **Deployment**: Vercel
-
----
+### Clone the Repository
+```sh
+git clone https://github.com/yourusername/designmeld.git
+cd designmeld
